@@ -46,9 +46,9 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                I design user-friendly web interfaces using modern frontend technologies,
+                 focusing on exceptional user experiences with clean,
+                  efficient code.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
