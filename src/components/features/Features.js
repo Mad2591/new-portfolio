@@ -26,7 +26,7 @@ const Features = () => {
             icon={<AiFillAppstore />}
           />
         </a>
-        <a href="/portfolio">
+        <a href="https://master--madhuri-patil-portfolio.netlify.app/">
           <Card
             title="Personal Portfolio Website"
             des="Creating interactive and visually appealing portfolios."
