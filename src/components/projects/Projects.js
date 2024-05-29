@@ -27,8 +27,8 @@ const Projects = () => {
           title="Personal Portfolio Website"
           des="Created a personal portfolio website using React.js, Tailwind CSS, and Framer Motion to showcase my projects and skills."
           src={projectTwo}
-          githubLink="https://github.com/yourusername/personal-portfolio"
-          liveLink="https://your-live-link.com/personal-portfolio"
+          githubLink="https://github.com/Mad2591/new-portfolio"
+          liveLink="https://master--madhuri-patil-portfolio.netlify.app/"
         />
         <ProjectsCard
           title="Clone of FirstCry Website"
